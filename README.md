@@ -1,2 +1,2 @@
-# Payload-IREC-2027---Volta
+# Volta_Team-Payload_IREC_2027
 General repository for the development of the payload project for IREC 2027
